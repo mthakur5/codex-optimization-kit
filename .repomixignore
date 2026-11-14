@@ -1,0 +1,16 @@
+# Add project-specific exclusions here.
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+secrets/
+credentials/
+node_modules/
+.git/
+.next/
+dist/
+build/
+coverage/
+vendor/
